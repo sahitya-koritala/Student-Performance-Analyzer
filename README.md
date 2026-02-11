@@ -6,11 +6,11 @@ This program is built in python using basic concepts of loop and conditional sta
 ## Feautures 
 -Takes student marks as input
 -Classifies marks into:
-  -Excellent
-  -Very Good
-  -Good
-  -Average
-  -Fail
+  Excellent
+  Very Good
+  Good
+  Average
+  Fail
   Invalid
 -Counts:
   -Total number of students passed
