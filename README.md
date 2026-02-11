@@ -4,18 +4,18 @@
 This program is built in python using basic concepts of loop and conditional statements without using advanced data structures or functions.The aim is to create a program that analyzes the students performance based on the internal assessment marks.The marks of multiple students are taken. Each student's marks are checked and given as Excellent, very good, good, average and fail based on their performance. Marks are taken in between 0 and 100 only (inclusive).This program also counts the number of students who have passed the examination and the number of students failed the examination. And also, the personalized logic is used based on the users own details, which changes the output.
 
 ## Feautures 
--Takes student marks as input
--Classifies marks into:
-  Excellent
-  Very Good
-  Good
-  Average
-  Fail
-  Invalid
--Counts:
+1.Takes student marks as input
+2.Classifies marks into:
+  -Excellent
+  -Very Good
+  -Good
+  -Average
+  -Fail
+  -Invalid
+3.Counts:
   -Total number of students passed
   -Total number of students failed
--Implements a personalized condition based on name and section to modify marks for one or more selected categories
+4.Implements a personalized condition based on name and section to modify marks for one or more selected categories
 
 ## Constraints followed 
 - Uses only single for loop, conditional statements, strings and basic variables
